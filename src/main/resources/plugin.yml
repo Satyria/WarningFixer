@@ -1,0 +1,7 @@
+name: WarningFixer
+main: me.jesfot.warnfix.WarningFixer
+version: 1.0.0
+load: STARTUP
+description: Removes unwanted, harmless warnings from console !
+api-version: 1.15
+authors: ["JësFot"]
